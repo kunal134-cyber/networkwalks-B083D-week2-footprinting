@@ -5,13 +5,13 @@
 <h6 align="center">W2-PM-FINAL | CYBERSECURITY |  NETWORKWALKS</h6>    
   
   
-| <h2> Pentester Name </h2> |  <h2> `ADEMUYIWA OLUWASEMILORE` </h2> |
+| <h2> Pentester Name </h2> |  <h2> `kunal srivastava` </h2> |
 | :--- | :--- |
-| Program/Batch | B083F |
+| Program/Batch | B083d |
 | Module Completed | W2-PM1 (Multiple Kali Tools)  
 | | W2-PM4 (theHarvester Tool)  
 | | W2-PM5 (Zenmap Scanning)|
-| Date | 19 September 2026 |
+| Date | 26 September 2026 |
 | Client/Target	| 1. Networkwalks (secured written permission already) |  
 | | 2. My own local LAN Network |  
 | Permission secured from client? | Yes |  
