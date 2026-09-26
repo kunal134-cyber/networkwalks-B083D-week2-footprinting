@@ -137,3 +137,38 @@ The exercises showed me that information gathering is an important part of cyber
 I also learned that technical findings should be documented clearly. A good cybersecurity report should explain what was performed, what was discovered, what the observation means, what risk it may create, and what can be done to reduce that risk.  
 Finally, I learned that reconnaissance and scanning must always be performed within an authorized scope. These activities were completed as prt of the assigned educational cybersecurity lab.  
   
+## 📸 Screenshots
+
+<p align="center">
+  <img src="Screenshot From 2026-09-26 06-56-45.png" width="45%">
+  <img src="Screenshot From 2026-09-26 06-57-47.png" width="45%">
+</p>
+
+<p align="center">
+  <img src="Screenshot From 2026-09-26 06-57-55.png" width="45%">
+  <img src="Screenshot From 2026-09-26 06-59-03.png" width="45%">
+</p>
+
+<p align="center">
+  <img src="Screenshot From 2026-09-26 06-59-57.png" width="45%">
+  <img src="Screenshot From 2026-09-26 07-00-45.png" width="45%">
+</p>
+
+<p align="center">
+  <img src="Screenshot From 2026-09-26 07-11-59.png" width="45%">
+  <img src="Screenshot From 2026-09-26 07-12-24.png" width="45%">
+</p>
+
+<p align="center">
+  <img src="Screenshot From 2026-09-26 07-16-30.png" width="45%">
+  <img src="Screenshot From 2026-09-26 11-37-15.png" width="45%">
+</p>
+
+<p align="center">
+  <img src="Screenshot From 2026-09-26 11-45-01.png" width="45%">
+  <img src="Screenshot From 2026-09-26 11-45-13.png" width="45%">
+</p>
+
+<p align="center">
+  <img src="Screenshot From 2026-09-26 11-50-03.png" width="45%">
+</p>
